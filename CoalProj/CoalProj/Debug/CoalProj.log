@@ -1,0 +1,3 @@
+﻿  Assembling Main.asm...
+Main.asm(80): warning A6004: procedure argument or local not referenced : char
+  CoalProj.vcxproj -> C:\VSProj\CoalProj\Debug\CoalProj.exe
